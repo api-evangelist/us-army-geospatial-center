@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-US Army Geospatial Center is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.tec.army.mil/
+The US Army Geospatial Center (AGC) provides geospatial intelligence, mapping, and analysis services to support Army operations, planning, and decision‑making. It develops and maintains geospatial data, tools, and applications for terrain analysis, mission planning, and situational awareness, serving both military and civilian stakeholders. The center collaborates with other defense agencies and leverages advanced GIS technologies to deliver accurate, timely geospatial products and services.
+
+**Areas:** Company · Geospatial · Defense · GIS · Mapping · Intelligence
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.tec.army.mil/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/us-army-geospatial-center/](https://apis.io/providers/us-army-geospatial-center/).
